@@ -1,0 +1,32 @@
+# LazyVim Playground - Git Ignore File
+
+# Vim/Neovim
+*.swp
+*.swo
+*~
+.*.sw[a-z]
+.netrwhist
+tags
+Session.vim
+
+# OS Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Personal notes (if you want to keep some notes private)
+# private/
+# scratch/
