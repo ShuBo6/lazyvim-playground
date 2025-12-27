@@ -17,6 +17,7 @@
 ├── README.md                # 项目说明
 ├── LAZYVIM_GUIDE.md        # 完整使用指南
 ├── QUICK_REFERENCE.md      # 快速参考卡片
+├── WINDOW_SPLIT_GUIDE.md   # 分屏操作最佳实践
 ├── GOLANG_SETUP.md         # Golang 环境配置记录
 ├── SSH_FONT_GUIDE.md       # SSH 场景字体配置指南
 ├── NERD_FONT_GUIDE.md      # Nerd Font 详细安装指南
@@ -43,6 +44,13 @@
 - Golang 专用快捷键
 - 紧急情况处理
 - 配置步骤清单
+
+### 🪟 [分屏操作指南](WINDOW_SPLIT_GUIDE.md)
+分屏（窗口管理）的完整指南：
+- 创建、切换、调整分屏
+- 实用工作流示例
+- 最佳实践建议
+- 与其他功能配合使用
 
 ### 🚀 [Golang 环境配置](GOLANG_SETUP.md)
 详细的 Golang 开发环境配置记录，包含：
