@@ -17,7 +17,14 @@
 ├── README.md                # 项目说明
 ├── LAZYVIM_GUIDE.md        # 完整使用指南
 ├── QUICK_REFERENCE.md      # 快速参考卡片
-└── docs/                   # 其他文档和笔记（待创建）
+├── GOLANG_SETUP.md         # Golang 环境配置记录
+├── SSH_FONT_GUIDE.md       # SSH 场景字体配置指南
+├── NERD_FONT_GUIDE.md      # Nerd Font 详细安装指南
+├── install-go-tools.sh     # Golang 工具安装脚本
+├── install-nerd-font.sh    # Nerd Font 安装脚本（服务器端）
+└── examples/               # 示例代码
+    ├── hello.go           # Go 示例程序
+    └── hello_test.go      # Go 测试示例
 ```
 
 ## 文档说明
@@ -36,6 +43,30 @@
 - Golang 专用快捷键
 - 紧急情况处理
 - 配置步骤清单
+
+### 🚀 [Golang 环境配置](GOLANG_SETUP.md)
+详细的 Golang 开发环境配置记录，包含：
+- 使用 mise 安装 Go
+- 配置 Go 代理加速
+- LazyVim Golang 插件配置
+- 安装 Golang 工具链
+- 功能验证和测试
+- 常用工作流和故障排除
+
+### 🎨 [SSH 场景字体配置](SSH_FONT_GUIDE.md) ⭐ 推荐
+**SSH 远程连接必读！** 解决图标显示问号问题：
+- **重要概念**：字体应该装在客户端还是服务器端？
+- Windows / macOS / Linux 客户端字体安装
+- 各种终端模拟器配置方法
+- SSH + UTF-8 配置
+- 完整的故障排查指南
+
+### 🎯 [Nerd Font 完整指南](NERD_FONT_GUIDE.md)
+Nerd Font 字体的详细安装和配置文档：
+- 本地图形界面使用场景
+- 多种终端模拟器配置
+- 字体推荐和选择
+- 常见问题解决
 
 ## 快速开始
 
