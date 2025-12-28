@@ -18,6 +18,7 @@
 ├── LAZYVIM_GUIDE.md        # 完整使用指南
 ├── QUICK_REFERENCE.md      # 快速参考卡片
 ├── WINDOW_SPLIT_GUIDE.md   # 分屏操作最佳实践
+├── BUFFER_GUIDE.md         # Buffer 完全指南
 ├── GOLANG_SETUP.md         # Golang 环境配置记录
 ├── SSH_FONT_GUIDE.md       # SSH 场景字体配置指南
 ├── NERD_FONT_GUIDE.md      # Nerd Font 详细安装指南
@@ -51,6 +52,14 @@
 - 实用工作流示例
 - 最佳实践建议
 - 与其他功能配合使用
+
+### 📑 [Buffer 完全指南](BUFFER_GUIDE.md)
+Buffer（缓冲区）的完整使用手册：
+- Buffer vs Window vs Tab 概念解析
+- Buffer 切换、管理、关闭
+- bufferline 插件使用
+- 实用工作流和最佳实践
+- 何时用 Buffer vs 何时用分屏
 
 ### 🚀 [Golang 环境配置](GOLANG_SETUP.md)
 详细的 Golang 开发环境配置记录，包含：
